@@ -1,0 +1,13 @@
+
+
+.header {
+  background-color: rgb(160, 186, 160);
+  padding: 16px;
+  color:#33341b;
+}
+.header-button {
+  display: flex;
+  justify-content: center ;
+  align-items: center;
+  gap: 18px;
+}
